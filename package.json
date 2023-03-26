@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/chart.js": "^2.9.37",
+    "nuxt": "^3.3.1"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@vueuse/core": "^9.13.0",
+    "@vueuse/nuxt": "^9.13.0",
+    "chart.js": "^4.2.1",
+    "dayjs": "^1.11.7",
+    "element-plus": "^2.3.1",
+    "vue-chartjs": "^5.2.0"
+  }
+}
