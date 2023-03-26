@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   modules: ['@vueuse/nuxt'],
   css: ['element-plus/dist/index.css', 'element-plus/theme-chalk/dark/css-vars.css', '@/assets/global.css'],
   app: {
-    baseURL: '/',
+    baseURL: '/jehea-wedding',
     head: {
       htmlAttrs: {
         class: ['dark'],
